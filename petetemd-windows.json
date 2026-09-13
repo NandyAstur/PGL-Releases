@@ -9,6 +9,9 @@
     "tag":  "v1.0.3",
     "asset":  "PeteteMD-1.0.3-win-x64.zip",
     "downloadUrl":  "https://github.com/NandyAstur/PeteteMD/releases/download/v1.0.3/PeteteMD-1.0.3-win-x64.zip",
-    "sha256":  "619660734BFE47E356A21F9F6B379C7E31D107209F984E2697ABE730D15EC56F",
+    "sha256":  "FDA0C0232E374EFDFEAB6AFE725953EDFE08A130FDE8E2EB8D4E74CC72ADC1B7",
+    "setupAsset":  "PeteteMD-Setup-1.0.3-win-x64.exe",
+    "setupDownloadUrl":  "https://github.com/NandyAstur/PeteteMD/releases/download/v1.0.3/PeteteMD-Setup-1.0.3-win-x64.exe",
+    "setupSha256":  "F329D56F64F3142522697E332CBE55DBD4E12489ED908422FC6E487DF5CD47AC",
     "updatePolicy":  "automatic"
 }
