@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "app": "Petete TV",
+  "platform": "android-tv",
+  "channel": "stable",
+  "published": false,
+  "versionName": "1.0",
+  "versionCode": 1,
+  "tag": "petetetv-android-v1.0",
+  "asset": "Petete-TV-Android.apk",
+  "sha256Asset": "Petete-TV-Android.apk.sha256",
+  "downloadUrl": "",
+  "sha256Url": "",
+  "sha256": "",
+  "sourceCommit": "",
+  "releaseNotes": "Canal de actualizaciones de Petete TV para Android TV"
+}
