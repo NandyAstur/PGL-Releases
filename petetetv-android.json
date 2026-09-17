@@ -4,14 +4,14 @@
     "platform":  "android-tv",
     "channel":  "stable",
     "published":  true,
-    "versionName":  "1.2",
-    "versionCode":  3,
-    "tag":  "petetetv-android-v1.2",
+    "versionName":  "1.3",
+    "versionCode":  4,
+    "tag":  "petetetv-android-v1.3",
     "asset":  "PeteteTV-Android.apk",
     "sha256Asset":  "PeteteTV-Android.apk.sha256",
-    "downloadUrl":  "https://github.com/NandyAstur/PGL-Releases/releases/download/petetetv-android-v1.2/PeteteTV-Android.apk",
-    "sha256Url":  "https://github.com/NandyAstur/PGL-Releases/releases/download/petetetv-android-v1.2/PeteteTV-Android.apk.sha256",
-    "sha256":  "f0d3d49d64f6808c24d019f622094688c1d38cd652bcef8d08a0729239c2c84b",
-    "sourceCommit":  "23bfe53d55489874e5144af9928c36cb21d8c69a",
-    "releaseNotes":  "Petete TV Android 1.2"
+    "downloadUrl":  "https://github.com/NandyAstur/PGL-Releases/releases/download/petetetv-android-v1.3/PeteteTV-Android.apk",
+    "sha256Url":  "https://github.com/NandyAstur/PGL-Releases/releases/download/petetetv-android-v1.3/PeteteTV-Android.apk.sha256",
+    "sha256":  "706e16b704277119dda8860df471ae42d629366318dc8f8fc3077a02ee68fa01",
+    "sourceCommit":  "42892010374ae97530c1240692bd2cfef33da386",
+    "releaseNotes":  "Petete TV Android 1.3"
 }
