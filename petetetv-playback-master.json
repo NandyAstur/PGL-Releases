@@ -1,38 +1,46 @@
 {
-  "schemaVersion": 1,
-  "updatedUtc": "2026-09-17T19:30:00Z",
+  "schemaVersion": 2,
+  "updatedUtc": "2026-09-17T19:45:00Z",
   "routes": {
     "tdt:8 La Marina TV:487813471": {
       "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
-      "transport": "MEDIA3_DIRECT",
-      "mode": "PLAIN",
       "status": "available",
-      "validatedBy": "android",
-      "stableMs": 2500
+      "android": {
+        "transport": "MEDIA3_DIRECT",
+        "mode": "PLAIN",
+        "stableMs": 2500,
+        "validatedBy": "android"
+      }
     },
     "65786abdb3801200084c593a": {
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65786abdb3801200084c593a/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=petetetv&deviceId=petetetv-65786abdb3801200084c593a&deviceVersion=0&appVersion=0&deviceDNT=0",
-      "transport": "MEDIA3_DIRECT",
-      "mode": "PLAIN",
       "status": "available",
-      "validatedBy": "android",
-      "stableMs": 2500
+      "android": {
+        "transport": "MEDIA3_DIRECT",
+        "mode": "PLAIN",
+        "stableMs": 2500,
+        "validatedBy": "android"
+      }
     },
     "NationalGeographicLatinAmerica.us": {
       "url": "http://190.93.224.42/NAT-GEO/index.m3u8",
-      "transport": "LIBVLC",
-      "mode": "VLC_COMPAT",
       "status": "available",
-      "validatedBy": "android",
-      "stableMs": 2500
+      "android": {
+        "transport": "LIBVLC",
+        "mode": "VLC_COMPAT",
+        "stableMs": 2500,
+        "validatedBy": "android"
+      }
     },
     "tdt:24Horas.TV:-295103577": {
       "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-      "transport": "MEDIA3_DIRECT",
-      "mode": "PLAIN",
       "status": "available",
-      "validatedBy": "android",
-      "stableMs": 2500
+      "android": {
+        "transport": "MEDIA3_DIRECT",
+        "mode": "PLAIN",
+        "stableMs": 2500,
+        "validatedBy": "android"
+      }
     }
   }
 }
