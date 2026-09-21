@@ -11,7 +11,7 @@
     "sha256Asset":  "PeteteTV-Android.apk.sha256",
     "downloadUrl":  "https://github.com/NandyAstur/PGL-Releases/releases/download/petetetv-android-v1.4/PeteteTV-Android.apk",
     "sha256Url":  "https://github.com/NandyAstur/PGL-Releases/releases/download/petetetv-android-v1.4/PeteteTV-Android.apk.sha256",
-    "sha256":  "79f4c6c2c97ed19a177e5080828065391ed7e85582d23f98d1733c5cd3f7a79c",
-    "sourceCommit":  "4757edf8500c7a180a295f2328e9d83f76927ed9",
+    "sha256":  "2890326eaa404abb0742d4851a96009c58da3e0989e0b1585a9bd731a09824a6",
+    "sourceCommit":  "9e679b5f5d35598acbb96262f72d351761f7e637",
     "releaseNotes":  "Petete TV Android 1.4"
 }
