@@ -1,9 +1,10 @@
 {
   "published": true,
   "version": "0.2.2",
+  "buildId": "20261004064713420",
   "repository": "NandyAstur/Petete-CCC",
   "tag": "petetexcc-v0.2.2",
   "asset": "PeteteXCC-0.2.2-windows-x64.zip",
-  "sha256": "da1c5c7a650c8f65d0cdb25ebfd05020d20aa4c1ba56d36c5860aaa9ba22da59",
-  "publishedAt": "2026-10-04T06:42:48.6994985Z"
+  "sha256": "5414a7b3c1ad124a8313f09a9de500f9d2a5e02eeab99c943fc42bb7d808af27",
+  "publishedAt": "2026-10-04T06:47:33.2935724Z"
 }
