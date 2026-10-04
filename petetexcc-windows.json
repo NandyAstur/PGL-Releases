@@ -1,13 +1,13 @@
 {
   "published": true,
   "version": "0.2.4",
-  "buildId": "20261004113723403",
+  "buildId": "20261004115916654",
   "repository": "NandyAstur/PGL-Releases",
   "tag": "petetexcc-v0.2.4",
-  "asset": "PeteteXCC-0.2.4-20261004113723403-windows-x64.zip",
-  "downloadUrl": "https://github.com/NandyAstur/PGL-Releases/releases/download/petetexcc-v0.2.4/PeteteXCC-0.2.4-20261004113723403-windows-x64.zip",
-  "sha256": "d64ccf9a9fc6375f50588020bb42c875622e16f990894c8bc045ee0467e8aa04",
-  "sourceCommit": "cdd3ea339713aac1183345e405677c6c4dfc1410",
+  "asset": "PeteteXCC-0.2.4-20261004115916654-windows-x64.zip",
+  "downloadUrl": "https://github.com/NandyAstur/PGL-Releases/releases/download/petetexcc-v0.2.4/PeteteXCC-0.2.4-20261004115916654-windows-x64.zip",
+  "sha256": "3fec20f89cc3528cc551967dc3a7ed47cc98e9ef4b86601d7017013cab5db1e1",
+  "sourceCommit": "813f1b350ec3883abd9e6c341bbfccf77fc855b9",
   "channel": "stable",
-  "publishedAt": "2026-10-04T11:38:02.0731300Z"
+  "publishedAt": "2026-10-04T11:59:50.7871762Z"
 }
