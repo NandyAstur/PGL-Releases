@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedUtc": "2026-10-06T16:35:47.4987256Z",
+  "updatedUtc": "2026-10-06T23:26:59.3784235Z",
   "routes": {
     "tdt:8 La Marina TV:487813471": {
       "status": "available",
@@ -79,6 +79,24 @@
         "readyMs": null,
         "stableMs": 2500,
         "validatedUtc": "2026-10-06T16:01:24.9873289Z",
+        "validatedBy": "windows"
+      }
+    },
+    "tdt:ElConfidencial.TV:-658879394": {
+      "status": "available",
+      "pc": {
+        "status": "available",
+        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-bmo0niz694whx.m3u8",
+        "route": "Relay HLS interno",
+        "userAgent": "",
+        "referrer": "",
+        "networkCachingMs": null,
+        "audioLanguages": [
+          "Espa\u00F1ol"
+        ],
+        "readyMs": null,
+        "stableMs": 2500,
+        "validatedUtc": "2026-10-06T23:25:47.4454010Z",
         "validatedBy": "windows"
       }
     }
