@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedUtc": "2026-09-17T20:10:00Z",
+  "updatedUtc": "2026-10-06T16:35:47.4987256Z",
   "routes": {
     "tdt:8 La Marina TV:487813471": {
       "status": "available",
@@ -17,7 +17,7 @@
       "status": "available",
       "android": {
         "status": "available",
-        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65786abdb3801200084c593a/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=petetetv&deviceId=petetetv-65786abdb3801200084c593a&deviceVersion=0&appVersion=0&deviceDNT=0",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65786abdb3801200084c593a/master.m3u8?deviceType=0\u0026deviceMake=0\u0026deviceModel=0\u0026sid=petetetv\u0026deviceId=petetetv-65786abdb3801200084c593a\u0026deviceVersion=0\u0026appVersion=0\u0026deviceDNT=0",
         "transport": "MEDIA3_DIRECT",
         "mode": "PLAIN",
         "stableMs": 2500,
@@ -44,6 +44,42 @@
         "mode": "PLAIN",
         "stableMs": 2500,
         "validatedBy": "android"
+      }
+    },
+    "TPA": {
+      "status": "available",
+      "pc": {
+        "status": "available",
+        "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTEzMjIyMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.iN85wDwQvkikGoc3mie9SGaZts0Jd17JfAiZxmFxmbQ/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8",
+        "route": "Relay HLS interno",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+        "referrer": "https://www.rtpa.es/",
+        "networkCachingMs": null,
+        "audioLanguages": [
+          "Espa\u00F1ol"
+        ],
+        "readyMs": null,
+        "stableMs": 2500,
+        "validatedUtc": "2026-10-06T15:54:16.4162169Z",
+        "validatedBy": "windows"
+      }
+    },
+    "tdt:web:Cuatro.TV": {
+      "status": "available",
+      "pc": {
+        "status": "available",
+        "url": "https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/web.m3u8?hdnts=st=1791302473~exp=1791302652~acl=/*~hmac=8145b114f8eafe0add3dc58bb8bfaa5232bb1bab5a7f73c99f2c876326832b9c",
+        "route": "Directa",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "referrer": "https://www.mediasetinfinity.es/",
+        "networkCachingMs": null,
+        "audioLanguages": [
+          "Espa\u00F1ol"
+        ],
+        "readyMs": null,
+        "stableMs": 2500,
+        "validatedUtc": "2026-10-06T16:01:24.9873289Z",
+        "validatedBy": "windows"
       }
     }
   }
