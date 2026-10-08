@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedUtc": "2026-10-06T23:26:59.3784235Z",
+  "updatedUtc": "2026-10-08T14:31:18.5898013Z",
   "routes": {
     "tdt:8 La Marina TV:487813471": {
       "status": "available",
@@ -50,8 +50,8 @@
       "status": "available",
       "pc": {
         "status": "available",
-        "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTEzMjIyMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.iN85wDwQvkikGoc3mie9SGaZts0Jd17JfAiZxmFxmbQ/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8",
-        "route": "Relay HLS interno",
+        "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE0OTE0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.lreRe_ETt0ffHOx4TNAx6XbjIpDFS0SCie-nXBCAbjI/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8",
+        "route": "Directa",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
         "referrer": "https://www.rtpa.es/",
         "networkCachingMs": null,
@@ -60,7 +60,7 @@
         ],
         "readyMs": null,
         "stableMs": 2500,
-        "validatedUtc": "2026-10-06T15:54:16.4162169Z",
+        "validatedUtc": "2026-10-08T14:31:15.7794638Z",
         "validatedBy": "windows"
       }
     },
