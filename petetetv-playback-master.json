@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedUtc": "2026-10-09T06:54:00.9252083Z",
+  "updatedUtc": "2026-10-09T21:22:35.9355417Z",
   "routes": {
     "tdt:8 La Marina TV:487813471": {
       "status": "available",
@@ -68,7 +68,7 @@
       "status": "available",
       "pc": {
         "status": "available",
-        "url": "https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/web.m3u8?hdnts=st=1791501457~exp=1791501637~acl=/*~hmac=23f349429a5ea2bcdb9d0e27925365271ae4f1b3e02df035dc347e560edb7fb3",
+        "url": "https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/web.m3u8?hdnts=st=1791577527~exp=1791577707~acl=/*~hmac=748d3a51f73565dfbee0c0c6ab2a9c295cedac7d9fbcb63272e2e73cdf83b3f8",
         "route": "Directa",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
         "referrer": "https://www.mediasetinfinity.es/",
@@ -78,7 +78,7 @@
         ],
         "readyMs": null,
         "stableMs": 2500,
-        "validatedUtc": "2026-10-08T23:17:49.6968833Z",
+        "validatedUtc": "2026-10-09T20:25:39.7788871Z",
         "validatedBy": "windows"
       }
     },
@@ -97,6 +97,42 @@
         "readyMs": null,
         "stableMs": 2500,
         "validatedUtc": "2026-10-06T23:25:47.4454010Z",
+        "validatedBy": "windows"
+      }
+    },
+    "LA 2": {
+      "status": "available",
+      "pc": {
+        "status": "available",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
+        "route": "Directa",
+        "userAgent": "",
+        "referrer": "",
+        "networkCachingMs": null,
+        "audioLanguages": [
+          "Espa\u00F1ol"
+        ],
+        "readyMs": null,
+        "stableMs": 2500,
+        "validatedUtc": "2026-10-09T20:29:02.5114191Z",
+        "validatedBy": "windows"
+      }
+    },
+    "La Sexta": {
+      "status": "available",
+      "pc": {
+        "status": "available",
+        "url": "https://atres-live.atresmedia.com/53891ad10bf2bf8335c5b0b530a1bde2751eb866_ES_1791577813_1791606553/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8",
+        "route": "Directa",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "referrer": "https://www.atresplayer.com/",
+        "networkCachingMs": null,
+        "audioLanguages": [
+          "Espa\u00F1ol"
+        ],
+        "readyMs": null,
+        "stableMs": 2500,
+        "validatedUtc": "2026-10-09T20:29:26.4225275Z",
         "validatedBy": "windows"
       }
     }
