@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedUtc": "2026-10-08T14:31:18.5898013Z",
+  "updatedUtc": "2026-10-09T06:54:00.9252083Z",
   "routes": {
     "tdt:8 La Marina TV:487813471": {
       "status": "available",
@@ -68,7 +68,7 @@
       "status": "available",
       "pc": {
         "status": "available",
-        "url": "https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/web.m3u8?hdnts=st=1791302473~exp=1791302652~acl=/*~hmac=8145b114f8eafe0add3dc58bb8bfaa5232bb1bab5a7f73c99f2c876326832b9c",
+        "url": "https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/web.m3u8?hdnts=st=1791501457~exp=1791501637~acl=/*~hmac=23f349429a5ea2bcdb9d0e27925365271ae4f1b3e02df035dc347e560edb7fb3",
         "route": "Directa",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
         "referrer": "https://www.mediasetinfinity.es/",
@@ -78,7 +78,7 @@
         ],
         "readyMs": null,
         "stableMs": 2500,
-        "validatedUtc": "2026-10-06T16:01:24.9873289Z",
+        "validatedUtc": "2026-10-08T23:17:49.6968833Z",
         "validatedBy": "windows"
       }
     },
