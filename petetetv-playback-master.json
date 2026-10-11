@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedUtc": "2026-10-09T21:22:35.9355417Z",
+  "updatedUtc": "2026-10-11T21:31:09.5275102Z",
   "routes": {
     "tdt:8 La Marina TV:487813471": {
       "status": "available",
@@ -50,8 +50,8 @@
       "status": "available",
       "pc": {
         "status": "available",
-        "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE0OTE0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.lreRe_ETt0ffHOx4TNAx6XbjIpDFS0SCie-nXBCAbjI/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8",
-        "route": "Directa",
+        "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2OTEyMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.fajIuVjwSQuMmklduL5SuRkRkr11eiWL23P6xbSLrkk/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8",
+        "route": "Relay HLS interno",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
         "referrer": "https://www.rtpa.es/",
         "networkCachingMs": null,
@@ -60,7 +60,7 @@
         ],
         "readyMs": null,
         "stableMs": 2500,
-        "validatedUtc": "2026-10-08T14:31:15.7794638Z",
+        "validatedUtc": "2026-10-10T22:13:30.7267037Z",
         "validatedBy": "windows"
       }
     },
@@ -68,7 +68,7 @@
       "status": "available",
       "pc": {
         "status": "available",
-        "url": "https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/web.m3u8?hdnts=st=1791577527~exp=1791577707~acl=/*~hmac=748d3a51f73565dfbee0c0c6ab2a9c295cedac7d9fbcb63272e2e73cdf83b3f8",
+        "url": "https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/web.m3u8?hdnts=st=1791588186~exp=1791588366~acl=/*~hmac=b72b940a6bb6d59b7dab0a9ecb6de97134c9fb6bbbead73b750787e922db22f7",
         "route": "Directa",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
         "referrer": "https://www.mediasetinfinity.es/",
@@ -78,7 +78,7 @@
         ],
         "readyMs": null,
         "stableMs": 2500,
-        "validatedUtc": "2026-10-09T20:25:39.7788871Z",
+        "validatedUtc": "2026-10-09T23:23:19.0351322Z",
         "validatedBy": "windows"
       }
     },
@@ -122,7 +122,7 @@
       "status": "available",
       "pc": {
         "status": "available",
-        "url": "https://atres-live.atresmedia.com/53891ad10bf2bf8335c5b0b530a1bde2751eb866_ES_1791577813_1791606553/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8",
+        "url": "https://atres-live.atresmedia.com/5716b6b3112fc538b34549e10d5a25fd29018f0c_ES_1791587633_1791616373/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8",
         "route": "Directa",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
         "referrer": "https://www.atresplayer.com/",
@@ -132,7 +132,61 @@
         ],
         "readyMs": null,
         "stableMs": 2500,
-        "validatedUtc": "2026-10-09T20:29:26.4225275Z",
+        "validatedUtc": "2026-10-09T23:13:05.7210832Z",
+        "validatedBy": "windows"
+      }
+    },
+    "seed:antena3-es": {
+      "status": "available",
+      "pc": {
+        "status": "available",
+        "url": "https://atres-live.atresmedia.com/e65fa450a7a476c6248f3656bf45b76fe7f5d94e_ES_1791731274_1791760014/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8",
+        "route": "Directa",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "referrer": "https://www.atresplayer.com/",
+        "networkCachingMs": null,
+        "audioLanguages": [
+          "Espa\u00F1ol"
+        ],
+        "readyMs": null,
+        "stableMs": 2500,
+        "validatedUtc": "2026-10-11T15:07:07.6266822Z",
+        "validatedBy": "windows"
+      }
+    },
+    "tdt:web:Telecinco.TV": {
+      "status": "available",
+      "pc": {
+        "status": "available",
+        "url": "https://directos.mitele.es/orilinear01/live/linear01/main/main.isml/web.m3u8?hdnts=st=1791670370~exp=1791670549~acl=/*~hmac=9fd2e62694c82d05bf4d0de8eef49c39586d0b0bf1948fc914c956e5c3922016",
+        "route": "Directa",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "referrer": "https://www.mediasetinfinity.es/",
+        "networkCachingMs": null,
+        "audioLanguages": [
+          "Espa\u00F1ol"
+        ],
+        "readyMs": null,
+        "stableMs": 2500,
+        "validatedUtc": "2026-10-10T22:13:02.7271644Z",
+        "validatedBy": "windows"
+      }
+    },
+    "tdt:TVGAL.TV:-1371464994": {
+      "status": "available",
+      "pc": {
+        "status": "available",
+        "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
+        "route": "Directa",
+        "userAgent": "",
+        "referrer": "",
+        "networkCachingMs": null,
+        "audioLanguages": [
+          "Espa\u00F1ol"
+        ],
+        "readyMs": null,
+        "stableMs": 2500,
+        "validatedUtc": "2026-10-10T22:13:51.3918510Z",
         "validatedBy": "windows"
       }
     }
