@@ -11,8 +11,8 @@
     "downloadUrl":  "https://github.com/NandyAstur/PGL-Releases/releases/download/v0.22.22-c76/Petete-Radio-Windows-Setup.exe",
     "sha256Url":  "https://github.com/NandyAstur/PGL-Releases/releases/download/v0.22.22-c76/Petete-Radio-Windows-Setup.exe.sha256",
     "releaseNotes":  "Petete Radio Windows 0.22.22 c76. Instalador verificado desde el commit 12048e37edf143bbc88818aecb4b447919b8bb1f.",
-    "updatePolicy":  "normal",
-    "forceFromVersion":  "",
-    "forceFromBuild":  null,
-    "forceReason":  ""
+    "updatePolicy":  "force",
+    "forceFromVersion":  "1.22.20",
+    "forceFromBuild":  8,
+    "forceReason":  "CANDIDATA c28: pulido del mini reproductor, favoritos, SCAN, persistencia de posición e importación de emisoras desde web."
 }
