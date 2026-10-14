@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedUtc": "2026-10-11T21:31:09.5275102Z",
+  "updatedUtc": "2026-10-14T00:15:55.5239460Z",
   "routes": {
     "tdt:8 La Marina TV:487813471": {
       "status": "available",
@@ -140,7 +140,7 @@
       "status": "available",
       "pc": {
         "status": "available",
-        "url": "https://atres-live.atresmedia.com/e65fa450a7a476c6248f3656bf45b76fe7f5d94e_ES_1791731274_1791760014/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8",
+        "url": "https://atres-live.atresmedia.com/b58096a1f9a5a8f0edcfad1a39cc7d011adbc8c8_ES_1791932520_1791961260/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8",
         "route": "Directa",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
         "referrer": "https://www.atresplayer.com/",
@@ -150,7 +150,7 @@
         ],
         "readyMs": null,
         "stableMs": 2500,
-        "validatedUtc": "2026-10-11T15:07:07.6266822Z",
+        "validatedUtc": "2026-10-13T23:01:13.4112704Z",
         "validatedBy": "windows"
       }
     },
@@ -158,7 +158,7 @@
       "status": "available",
       "pc": {
         "status": "available",
-        "url": "https://directos.mitele.es/orilinear01/live/linear01/main/main.isml/web.m3u8?hdnts=st=1791670370~exp=1791670549~acl=/*~hmac=9fd2e62694c82d05bf4d0de8eef49c39586d0b0bf1948fc914c956e5c3922016",
+        "url": "https://directos.mitele.es/orilinear01/live/linear01/main/main.isml/web.m3u8?hdnts=st=1791933451~exp=1791933630~acl=/*~hmac=9fcb3bbcf425eff9a52f913cc651fa0feb63fda2a94dcde84ff4cc8fa8c52cb8",
         "route": "Directa",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
         "referrer": "https://www.mediasetinfinity.es/",
@@ -168,7 +168,7 @@
         ],
         "readyMs": null,
         "stableMs": 2500,
-        "validatedUtc": "2026-10-10T22:13:02.7271644Z",
+        "validatedUtc": "2026-10-13T23:17:43.0681757Z",
         "validatedBy": "windows"
       }
     },
