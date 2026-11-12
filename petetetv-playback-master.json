@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedUtc": "2026-11-11T22:54:23.2274758Z",
+  "updatedUtc": "2026-11-12T19:01:16.5896539Z",
   "routes": {
     "tdt:8 La Marina TV:487813471": {
       "status": "available",
@@ -140,8 +140,8 @@
       "status": "available",
       "pc": {
         "status": "available",
-        "url": "https://atres-live.atresmedia.com/d8cb05d26e698b7846f8ebb0f6e5bcf92011e744_ES_1794437608_1794466348/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8",
-        "route": "Relay HLS interno",
+        "url": "https://atres-live.atresmedia.com/6b847a2f0cc082e062d2d498470a3427674632d2_ES_1794494651_1794523391/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8",
+        "route": "Directa",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
         "referrer": "https://www.atresplayer.com/",
         "networkCachingMs": null,
@@ -150,7 +150,7 @@
         ],
         "readyMs": null,
         "stableMs": 2500,
-        "validatedUtc": "2026-11-11T22:52:41.7420154Z",
+        "validatedUtc": "2026-11-12T14:43:24.1914773Z",
         "validatedBy": "windows"
       }
     },
