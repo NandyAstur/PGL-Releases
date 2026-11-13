@@ -4,11 +4,11 @@
     "channel":  "stable",
     "published":  true,
     "version":  "0.1.0",
-    "build":  221,
-    "tag":  "v0.1.0-c221",
+    "build":  222,
+    "tag":  "v0.1.0-c222",
     "asset":  "Petete-TV-Windows-Setup.exe",
     "sha256Asset":  "Petete-TV-Windows-Setup.exe.sha256",
-    "downloadUrl":  "https://github.com/NandyAstur/PGL-Releases/releases/download/v0.1.0-c221/Petete-TV-Windows-Setup.exe",
-    "sha256Url":  "https://github.com/NandyAstur/PGL-Releases/releases/download/v0.1.0-c221/Petete-TV-Windows-Setup.exe.sha256",
-    "releaseNotes":  "Petete TV 0.1.0 c221 para Windows."
+    "downloadUrl":  "https://github.com/NandyAstur/PGL-Releases/releases/download/v0.1.0-c222/Petete-TV-Windows-Setup.exe",
+    "sha256Url":  "https://github.com/NandyAstur/PGL-Releases/releases/download/v0.1.0-c222/Petete-TV-Windows-Setup.exe.sha256",
+    "releaseNotes":  "Petete TV 0.1.0 c222 para Windows."
 }
