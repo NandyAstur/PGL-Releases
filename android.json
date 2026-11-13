@@ -9,8 +9,8 @@
     "tag":  "android-v0.7.8-code52",
     "asset":  "Petete-Radio-Android.apk",
     "sha256Asset":  "Petete-Radio-Android.apk.sha256",
-    "downloadUrl":  "https://github.com/NandyAstur/PeteteRadio/releases/download/android-v0.7.8-code52/Petete-Radio-Android.apk",
-    "sha256Url":  "https://github.com/NandyAstur/PeteteRadio/releases/download/android-v0.7.8-code52/Petete-Radio-Android.apk.sha256",
+    "downloadUrl": "https://github.com/NandyAstur/PGL-Releases/releases/download/android-v0.7.8-code52/Petete-Radio-Android.apk",
+    "sha256Url": "https://github.com/NandyAstur/PGL-Releases/releases/download/android-v0.7.8-code52/Petete-Radio-Android.apk.sha256",
     "sha256":  "aea9d6bc61c0edae3fcd5b338e4c789a1abe99d798cee304f2a2418dc6369ee4",
     "sourceCommit":  "eb1c49d8b651e460a3622cface05c66cd8fe3872",
     "releaseNotes":  "Petete Radio Android 0.7.8 c52"

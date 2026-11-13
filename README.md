@@ -16,7 +16,7 @@ Petete Radio es, por ahora, la **única aplicación PGL autorizada para distribu
 
 Las compilaciones **c01, c02 y c03** pueden mostrar que el archivo **.partial** está siendo utilizado por otro proceso.
 
-**[REPARAR ACTUALIZADOR — descargar el instalador oficial c05](https://github.com/NandyAstur/PeteteRadio/releases/download/v1.22.18-c05/Petete-Radio-Windows-Setup.exe)**
+**[REPARAR ACTUALIZADOR - descargar el instalador oficial c05](https://github.com/NandyAstur/PGL-Releases/releases/download/v1.22.18/Petete-Radio-Windows-Setup.exe)**
 
 1. Cierra Petete Radio.
 2. Ejecuta el instalador descargado.
