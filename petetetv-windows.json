@@ -1,0 +1,14 @@
+﻿{
+    "schemaVersion":  1,
+    "platform":  "windows",
+    "channel":  "stable",
+    "published":  true,
+    "version":  "0.1.0",
+    "build":  217,
+    "tag":  "v0.1.0-c217",
+    "asset":  "Petete-TV-Windows-Setup.exe",
+    "sha256Asset":  "Petete-TV-Windows-Setup.exe.sha256",
+    "downloadUrl":  "https://github.com/NandyAstur/PGL-Releases/releases/download/v0.1.0-c217/Petete-TV-Windows-Setup.exe",
+    "sha256Url":  "https://github.com/NandyAstur/PGL-Releases/releases/download/v0.1.0-c217/Petete-TV-Windows-Setup.exe.sha256",
+    "releaseNotes":  "Petete TV 0.1.0 c217 para Windows."
+}
