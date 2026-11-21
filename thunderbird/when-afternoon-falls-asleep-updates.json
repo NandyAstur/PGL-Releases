@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "1.0.4",
-          "update_link": "https://github.com/NandyAstur/PGL-Releases/releases/download/thunderbird-theme-v1.0.4/When-Afternoon-Falls-Asleep-1.0.4.xpi",
+          "update_link": "https://raw.githubusercontent.com/NandyAstur/PGL-Releases/main/thunderbird/When-Afternoon-Falls-Asleep-1.0.4.xpi",
           "update_hash": "sha256:DAECE5238A97F2CAF135CE6E9F7532A6208F6685777033B16E16ED73BDD52740"
         }
       ]
