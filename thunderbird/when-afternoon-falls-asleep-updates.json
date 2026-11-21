@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "{6f4d8c2e-9a4b-4d87-b0d1-5b7a6e2c1f90}": {
+      "updates": [
+        {
+          "version": "1.0.3",
+          "update_link": "https://github.com/NandyAstur/PGL-Releases/releases/download/thunderbird-theme-v1.0.3/When-Afternoon-Falls-Asleep-1.0.3.xpi",
+          "update_hash": "sha256:A50BA14FBCFC480ACB5602EC1597441A110C004F87849CC696124E4DF330626F"
+        }
+      ]
+    }
+  }
+}
