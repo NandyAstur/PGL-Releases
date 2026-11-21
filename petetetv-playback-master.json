@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedUtc": "2026-11-18T00:22:36.2902693Z",
+  "updatedUtc": "2026-11-21T21:05:54.8346054Z",
   "routes": {
     "tdt:8 La Marina TV:487813471": {
       "status": "available",
@@ -68,7 +68,7 @@
       "status": "available",
       "pc": {
         "status": "available",
-        "url": "https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/web.m3u8?hdnts=st=1794960929~exp=1794961108~acl=/*~hmac=a82c970d1a054c89ddbfb9c073e04c95b7c5fb5e01b37200a8cf2c1049c03aee",
+        "url": "https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/web.m3u8?hdnts=st=1795227563~exp=1795227743~acl=/*~hmac=65cf2663f1a0c12a1a24d1a43032b221ba64d4e303379e9915daa173b3f4ada2",
         "route": "Directa",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
         "referrer": "https://www.mediasetinfinity.es/",
@@ -78,7 +78,7 @@
         ],
         "readyMs": null,
         "stableMs": 2500,
-        "validatedUtc": "2026-11-18T00:15:41.3383944Z",
+        "validatedUtc": "2026-11-21T02:19:36.1243627Z",
         "validatedBy": "windows"
       }
     },
@@ -140,7 +140,7 @@
       "status": "available",
       "pc": {
         "status": "available",
-        "url": "https://atres-live.atresmedia.com/6f9352d4f35c862a28428eb5dd8b6e4fdaf0a5e5_ES_1794935127_1794963867/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8",
+        "url": "https://atres-live.atresmedia.com/815e8ef5996334a74856d915600a8af4aef20f64_ES_1795227520_1795256260/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8",
         "route": "Directa",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
         "referrer": "https://www.atresplayer.com/",
@@ -150,7 +150,7 @@
         ],
         "readyMs": null,
         "stableMs": 2500,
-        "validatedUtc": "2026-11-17T17:04:40.0465691Z",
+        "validatedUtc": "2026-11-21T02:17:55.4605994Z",
         "validatedBy": "windows"
       }
     },
@@ -356,7 +356,7 @@
       "status": "available",
       "pc": {
         "status": "available",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63c69c87808b740007599fe1/master.m3u8?advertisingId=\u0026appName=web\u0026appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d\u0026app_name=web\u0026clientDeviceType=0\u0026clientID=b820bd61-616f-4df1-a9c5-734a2adc8e15\u0026clientModelNumber=1.0.0\u0026country=ES\u0026deviceDNT=false\u0026deviceId=b820bd61-616f-4df1-a9c5-734a2adc8e15\u0026deviceLat=43.3700\u0026deviceLon=-5.8700\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=16.2.0\u0026marketingRegion=ES\u0026serverSideAds=true\u0026sessionID=b414b4ec-e2e5-11f1-88c8-6a4a0471e652\u0026sid=b414b4ec-e2e5-11f1-88c8-6a4a0471e652\u0026userId=\u0026jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZmRiNmViLTA3OTctNGNlOS1iZTAzLTQwZDk0NDJmZmNjMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiNDE0YjRlYy1lMmU1LTExZjEtODhjOC02YTRhMDQ3MWU2NTIiLCJjbGllbnRJUCI6IjJhMGM6NWE4NjoxMTEwOmUzMDA6OGQ4MToxYjE4OjUyZGU6NjYzOSIsImNpdHkiOiJPdmllZG8iLCJwb3N0YWxDb2RlIjoiMzMwMTIiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0My4zNjk5OTg5MzE4ODQ3NjYsImRldmljZUxvbiI6LTUuODY5OTk5ODg1NTU5MDgyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxNi4yLjAiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjcuOS4wLWE5Y2NhNmI4OWFlYTRkYzA5OThiOTJhNTE5ODlkMmFkYjlhOTAyNWQiLCJjbGllbnRJRCI6ImI4MjBiZDYxLTYxNmYtNGRmMS1hOWM1LTczNGEyYWRjOGUxNSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJFdXJvcGUvTWFkcmlkIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiYjgyMGJkNjEtNjE2Zi00ZGYxLWE5YzUtNzM0YTJhZGM4ZTE1IiwiZndWY0lEMkNvcHBhIjoiYjgyMGJkNjEtNjE2Zi00ZGYxLWE5YzUtNzM0YTJhZGM4ZTE1IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJiODIwYmQ2MS02MTZmLTRkZjEtYTljNS03MzRhMmFkYzhlMTUiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDE1LDEwMDIwLDEwMDIxLDEwMDIzLDEwMDA5LDEwMDE0LDEwMDIyLDEwMDI1LDEwMDAwLDEwMDEzLDEwMDE2In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzk0OTYxMTYyMTg0LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WWpneU1HSmtOakV0TmpFMlppMDBaR1l4TFdFNVl6VXROek0wWVRKaFpHTTRaVEUxIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5NTA0NzU2MiwiaWF0IjoxNzk0OTYxMTYyLCJqdGkiOiI2MTIyNmYyZC1hZThiLTQ3ODAtOTZjYi05M2QyODExNjY2YjMifQ.wK-1YyOf_ynG5Yg-rNVUn4JOlRPbD7nEISj76WHpYT8\u0026masterJWTPassthrough=true",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63c69c87808b740007599fe1/master.m3u8?advertisingId=\u0026appName=web\u0026appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d\u0026app_name=web\u0026clientDeviceType=0\u0026clientID=5c02ac06-2f9b-41e2-8a2b-6463100eb482\u0026clientModelNumber=1.0.0\u0026country=ES\u0026deviceDNT=false\u0026deviceId=5c02ac06-2f9b-41e2-8a2b-6463100eb482\u0026deviceLat=43.3700\u0026deviceLon=-5.8700\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=16.2.0\u0026marketingRegion=ES\u0026serverSideAds=true\u0026sessionID=51d4a735-e3a3-11f1-9cef-22370b5463eb\u0026sid=51d4a735-e3a3-11f1-9cef-22370b5463eb\u0026userId=\u0026jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI3YmRhMDdmLTUxZTYtNDExYi1iMjIzLTUzMmQ2ZjE3ZDdlZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1MWQ0YTczNS1lM2EzLTExZjEtOWNlZi0yMjM3MGI1NDYzZWIiLCJjbGllbnRJUCI6IjJhMGM6NWE4NjoxMTEwOmUzMDA6ZDAxZDo2YmRhOmUyYzA6OWFiMiIsImNpdHkiOiJPdmllZG8iLCJwb3N0YWxDb2RlIjoiMzMwMTIiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0My4zNjk5OTg5MzE4ODQ3NjYsImRldmljZUxvbiI6LTUuODY5OTk5ODg1NTU5MDgyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxNi4yLjAiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjcuOS4wLWE5Y2NhNmI4OWFlYTRkYzA5OThiOTJhNTE5ODlkMmFkYjlhOTAyNWQiLCJjbGllbnRJRCI6IjVjMDJhYzA2LTJmOWItNDFlMi04YTJiLTY0NjMxMDBlYjQ4MiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJFdXJvcGUvTWFkcmlkIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiNWMwMmFjMDYtMmY5Yi00MWUyLThhMmItNjQ2MzEwMGViNDgyIiwiZndWY0lEMkNvcHBhIjoiNWMwMmFjMDYtMmY5Yi00MWUyLThhMmItNjQ2MzEwMGViNDgyIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI1YzAyYWMwNi0yZjliLTQxZTItOGEyYi02NDYzMTAwZWI0ODIiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDE0LDEwMDE2LDEwMDE1LDEwMDIwLDEwMDIyLDEwMDIzLDEwMDI1LDEwMDA5LDEwMDEzLDEwMDIxLDEwMDAwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzk1MDQyNjAxNzI2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6TldNd01tRmpNRFl0TW1ZNVlpMDBNV1V5TFRoaE1tSXROalEyTXpFd01HVmlORGd5IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5NTEyOTAwMSwiaWF0IjoxNzk1MDQyNjAxLCJqdGkiOiIyOGIzNjBiNi05ZTI5LTRiM2YtOGYxOS03MDkwN2NlMDE4YmIifQ.-_89fv-hevwy66tU6QXnidrduKLssJ3sgZvihksYwSY\u0026masterJWTPassthrough=true",
         "route": "Directa",
         "userAgent": "",
         "referrer": "https://pluto.tv/",
@@ -366,7 +366,7 @@
         ],
         "readyMs": null,
         "stableMs": 2500,
-        "validatedUtc": "2026-11-18T00:19:34.9830020Z",
+        "validatedUtc": "2026-11-18T22:56:54.6128568Z",
         "validatedBy": "windows"
       }
     },
@@ -799,6 +799,42 @@
         "readyMs": null,
         "stableMs": 2500,
         "validatedUtc": "2026-11-17T23:40:14.8626301Z",
+        "validatedBy": "windows"
+      }
+    },
+    "CineTerror.us": {
+      "status": "available",
+      "pc": {
+        "status": "available",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=\u0026appName=web\u0026appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d\u0026app_name=web\u0026clientDeviceType=0\u0026clientID=67daf4de-9076-4a5e-8337-527ce3c15e61\u0026clientModelNumber=1.0.0\u0026country=ES\u0026deviceDNT=false\u0026deviceId=67daf4de-9076-4a5e-8337-527ce3c15e61\u0026deviceLat=43.3700\u0026deviceLon=-5.8700\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=16.2.0\u0026marketingRegion=ES\u0026serverSideAds=true\u0026sessionID=346959e6-e39d-11f1-a6ba-1a5bf251da69\u0026sid=346959e6-e39d-11f1-a6ba-1a5bf251da69\u0026userId=\u0026jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI3YmRhMDdmLTUxZTYtNDExYi1iMjIzLTUzMmQ2ZjE3ZDdlZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzNDY5NTllNi1lMzlkLTExZjEtYTZiYS0xYTViZjI1MWRhNjkiLCJjbGllbnRJUCI6IjJhMGM6NWE4NjoxMTEwOmUzMDA6ZDAxZDo2YmRhOmUyYzA6OWFiMiIsImNpdHkiOiJPdmllZG8iLCJwb3N0YWxDb2RlIjoiMzMwMTIiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0My4zNjk5OTg5MzE4ODQ3NjYsImRldmljZUxvbiI6LTUuODY5OTk5ODg1NTU5MDgyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxNi4yLjAiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjcuOS4wLWE5Y2NhNmI4OWFlYTRkYzA5OThiOTJhNTE5ODlkMmFkYjlhOTAyNWQiLCJjbGllbnRJRCI6IjY3ZGFmNGRlLTkwNzYtNGE1ZS04MzM3LTUyN2NlM2MxNWU2MSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJFdXJvcGUvTWFkcmlkIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiNjdkYWY0ZGUtOTA3Ni00YTVlLTgzMzctNTI3Y2UzYzE1ZTYxIiwiZndWY0lEMkNvcHBhIjoiNjdkYWY0ZGUtOTA3Ni00YTVlLTgzMzctNTI3Y2UzYzE1ZTYxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI2N2RhZjRkZS05MDc2LTRhNWUtODMzNy01MjdjZTNjMTVlNjEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDAwLDEwMDEzLDEwMDIwLDEwMDIyLDEwMDI1In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzk1MDM5OTc1Mzg4LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6Tmpka1lXWTBaR1V0T1RBM05pMDBZVFZsTFRnek16Y3ROVEkzWTJVell6RTFaVFl4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5NTEyNjM3NSwiaWF0IjoxNzk1MDM5OTc1LCJqdGkiOiJkZDg2YWFlZC1mODM5LTQwN2QtODA0MS1jYTllNWEyMzQ4YTQifQ.sHb0bNVN5_7YvaFky2G0NGYE63WBi7SR_4M1AmEe8P4\u0026masterJWTPassthrough=true",
+        "route": "Relay HLS interno",
+        "userAgent": "",
+        "referrer": "https://pluto.tv/",
+        "networkCachingMs": null,
+        "audioLanguages": [
+          "Espa\u00F1ol"
+        ],
+        "readyMs": null,
+        "stableMs": 2500,
+        "validatedUtc": "2026-11-18T22:13:08.3907977Z",
+        "validatedBy": "windows"
+      }
+    },
+    "CinePremiere.us": {
+      "status": "available",
+      "pc": {
+        "status": "available",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=\u0026appName=web\u0026appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d\u0026app_name=web\u0026clientDeviceType=0\u0026clientID=b1f4ca0c-48ff-46c1-8075-e8e6f7820076\u0026clientModelNumber=1.0.0\u0026country=ES\u0026deviceDNT=false\u0026deviceId=b1f4ca0c-48ff-46c1-8075-e8e6f7820076\u0026deviceLat=43.3700\u0026deviceLon=-5.8700\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=16.2.0\u0026marketingRegion=ES\u0026serverSideAds=true\u0026sessionID=eb06681f-e551-11f1-b03c-26379a8261fe\u0026sid=eb06681f-e551-11f1-b03c-26379a8261fe\u0026userId=\u0026jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjVjY2U5YzJmLTQzOTUtNGVjYS1hMWQ3LWM4MTQ4NDA2ZWY4MiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlYjA2NjgxZi1lNTUxLTExZjEtYjAzYy0yNjM3OWE4MjYxZmUiLCJjbGllbnRJUCI6IjJhMGM6NWE4NjoxMTEwOmUzMDA6MTFjODpiYTUwOjQ5ODI6ZjBmNyIsImNpdHkiOiJPdmllZG8iLCJwb3N0YWxDb2RlIjoiMzMwMTIiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0My4zNjk5OTg5MzE4ODQ3NjYsImRldmljZUxvbiI6LTUuODY5OTk5ODg1NTU5MDgyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxNi4yLjAiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjcuOS4wLWE5Y2NhNmI4OWFlYTRkYzA5OThiOTJhNTE5ODlkMmFkYjlhOTAyNWQiLCJjbGllbnRJRCI6ImIxZjRjYTBjLTQ4ZmYtNDZjMS04MDc1LWU4ZTZmNzgyMDA3NiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJFdXJvcGUvTWFkcmlkIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiYjFmNGNhMGMtNDhmZi00NmMxLTgwNzUtZThlNmY3ODIwMDc2IiwiZndWY0lEMkNvcHBhIjoiYjFmNGNhMGMtNDhmZi00NmMxLTgwNzUtZThlNmY3ODIwMDc2IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJiMWY0Y2EwYy00OGZmLTQ2YzEtODA3NS1lOGU2Zjc4MjAwNzYiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDIxLDEwMDIyLDEwMDAwLDEwMDIwLDEwMDIzLDEwMDI1LDEwMDA5LDEwMDEzLDEwMDE0LDEwMDE2LDEwMDE1In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzk1MjI3NTQyMzM3LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WWpGbU5HTmhNR010TkRobVppMDBObU14TFRnd056VXRaVGhsTm1ZM09ESXdNRGMyIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5NTMxMzk0MiwiaWF0IjoxNzk1MjI3NTQyLCJqdGkiOiJmZDMzYzBhZC1kNGFhLTQ4ZjEtYjhhNC1iMzM3NDg1NGQ1NmEifQ.E55tZKT-JHm5cMqB5o9J2IeWmIfPeUosldVYKGJ3mmA\u0026masterJWTPassthrough=true",
+        "route": "Directa",
+        "userAgent": "",
+        "referrer": "https://pluto.tv/",
+        "networkCachingMs": null,
+        "audioLanguages": [
+          "Espa\u00F1ol"
+        ],
+        "readyMs": null,
+        "stableMs": 2500,
+        "validatedUtc": "2026-11-21T02:19:15.1695890Z",
         "validatedBy": "windows"
       }
     }
