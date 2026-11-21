@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "petete-translator@nando.local": {
+      "updates": [
+        {
+          "version": "0.7.6",
+          "update_link": "https://github.com/NandyAstur/PGL-Releases/releases/download/thunderbird-translator-v0.7.6/Petete_Translator_v0.7.6.xpi",
+          "update_hash": "sha256:281485F1EE0C3CD86CD048B77D48F577ED61AAA01B579D373C62230DAB2489D5"
+        }
+      ]
+    }
+  }
+}
