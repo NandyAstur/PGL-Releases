@@ -3,9 +3,9 @@
     "{6f4d8c2e-9a4b-4d87-b0d1-5b7a6e2c1f90}": {
       "updates": [
         {
-          "version": "1.0.10",
-          "update_link": "https://github.com/NandyAstur/PGL-Releases/raw/refs/heads/main/thunderbird/When-Afternoon-Falls-Asleep-1.0.10.xpi",
-          "update_hash": "sha256:7587568273636CFC3C182CEDEC9E65D33DCB529EA32BBFFCAB6ABFFBE359962F"
+          "version": "1.0.11",
+          "update_link": "https://github.com/NandyAstur/PGL-Releases/raw/refs/heads/main/thunderbird/When-Afternoon-Falls-Asleep-1.0.11.xpi",
+          "update_hash": "sha256:8F2B32C0E61F8D6CB1CC70D3F5311290D00BCDE61F20B20CE926E6B8A766FC42"
         }
       ]
     }
